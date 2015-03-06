@@ -52,5 +52,10 @@ protected:
      */
     int button;
 
+    /**
+     * Multiple click emulate.
+     */
+    int times;
+
 };
 #endif // LEFTBUTTONCLICK_H
